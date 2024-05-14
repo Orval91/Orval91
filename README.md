@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orval
 - 👀 I’m interested in Web3
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Java
 
 Nice to meet you!
 
